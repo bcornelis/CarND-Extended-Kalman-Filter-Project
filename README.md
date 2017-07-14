@@ -116,3 +116,11 @@ and how to install it.
 
 Regardless of the IDE used, every submitted project must
 still be compilable with cmake and make.
+
+## Result
+Running the simulator had some problems on my machine, with different locale settings, and the decimal symbol was mis interpreted for which I lost some time. Final solution was to launch the simulator as follows:
+
+LC_ALL=C ./term2_sim.x86_64
+
+The resulting image is shown here:
+![alt text][./data/screenshot.png]
