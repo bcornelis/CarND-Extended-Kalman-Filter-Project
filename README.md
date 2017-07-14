@@ -1,3 +1,6 @@
+[//]: # (Image References)
+[final_screenshot]: ./data/screenshot.png
+
 # Extended Kalman Filter Project Starter Code
 Self-Driving Car Engineer Nanodegree Program
 
@@ -123,4 +126,4 @@ Running the simulator had some problems on my machine, with different locale set
 LC_ALL=C ./term2_sim.x86_64
 
 The resulting image is shown here:
-![alt text][./data/screenshot.png]
+![alt text][final_screenshot]
